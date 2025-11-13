@@ -1,0 +1,4 @@
+streamlit
+numpy
+pillow
+tensorflow>=2.14; platform_system != "Darwin"
