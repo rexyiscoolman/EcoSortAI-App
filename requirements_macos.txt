@@ -1,6 +1,0 @@
-streamlit
-numpy
-pillow
-# For Apple Silicon (M1/M2+):
-tensorflow-macos>=2.14
-tensorflow-metal; platform_system == "Darwin"
