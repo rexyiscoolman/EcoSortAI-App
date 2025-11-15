@@ -1,4 +1,0 @@
-streamlit
-numpy
-pillow
-tensorflow-cpu>=2.14,<2.17
