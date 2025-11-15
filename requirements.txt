@@ -1,4 +1,4 @@
-tensorflow==2.16.1
+streamlit
 numpy
 pillow
-streamlit
+tensorflow>=2.14; platform_system != "Darwin"
